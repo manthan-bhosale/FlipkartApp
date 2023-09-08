@@ -1,0 +1,15 @@
+.title {
+  justify-content: center;
+  font-size: 30px;
+}
+.remove {
+  margin-top: 5px;
+  border: none;
+  font-family: monospace;
+  font-size: 15px;
+  color: white;
+  padding: 5px;
+  justify-content: center;
+  align-items: center;
+  background-color: #fb641b;
+}

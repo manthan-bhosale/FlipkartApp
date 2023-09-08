@@ -1,0 +1,40 @@
+.logint_in {
+  display: flex;
+  align-items: center;
+  padding: 0px 7px;
+}
+.logint_in > p {
+  margin-left: 8px;
+}
+.logint_in:hover {
+  background-color: rgb(245, 243, 243);
+  cursor: pointer;
+
+}
+
+.signupt_in {
+  display: flex;
+  align-items: center;
+  padding: 0px 7px;
+}
+
+.signupt_in > .signupt_in_link:hover {
+  text-decoration: underline;
+}
+.signupt_in_link {
+  cursor: pointer;
+}
+.logint > hr {
+  margin-left: -10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  width: 108.5%;
+  height: 0.5px;
+  background-color: rgb(233, 233, 233);
+  border: none;
+}
+.myicons {
+  margin-top: 4px;
+  color: #2874f0;
+  align-items: center;
+}

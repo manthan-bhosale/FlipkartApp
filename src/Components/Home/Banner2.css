@@ -1,0 +1,12 @@
+.banner2-img {
+  width: 100%;
+
+  align-items: center;
+  margin-top: 0px;
+  padding-bottom: 7px;
+}
+.banner2 {
+  display: flex;
+  margin-left: 7px;
+  margin-right: 7px;
+}

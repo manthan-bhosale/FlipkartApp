@@ -1,0 +1,16 @@
+.item {
+  display: flex;
+  background-color: white;
+  margin-left: 7px;
+  margin-right: 7px;
+  margin-top: 7px;
+  width: 100%;
+  overflow: hidden;
+  justify-content: center;
+}
+.data-img {
+  padding: 20px;
+}
+/* .all-product {
+    width: 100%;
+} */

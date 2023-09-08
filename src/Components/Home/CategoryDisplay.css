@@ -1,0 +1,17 @@
+.category {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #2874f0;
+  text-align: center;
+}
+.category-list {
+  color: white;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 40px 15px 40px;
+}
+.category-list:hover {
+  position: relative;
+  cursor: pointer;
+  background-color: #fb641b;
+}

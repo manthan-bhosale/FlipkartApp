@@ -1,0 +1,54 @@
+.Footermainclass {
+  font-family: monospace;
+  background-color: black;
+  display: flex;
+  margin-top: 12px;
+  position: static;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.Footerabout {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  width: 15%;
+  color: white;
+  text-align: start;
+  padding: 25px;
+  font-size: 12px;
+  line-height: 2.333em;
+}
+
+#title {
+  color: grey;
+}
+
+#commonid:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.FooterMail {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  width: 15%;
+  color: white;
+  text-align: start;
+  padding-top: 25px;
+  padding-left: 10px;
+  padding-right: 20px;
+  font-size: 12px;
+  line-height: 1.333em;
+}
+
+hr {
+  height: 20vh;
+  width: 1px;
+  border-width: 0;
+  background-color: white;
+  margin-top: 27px;
+  margin-right: 27px;
+}

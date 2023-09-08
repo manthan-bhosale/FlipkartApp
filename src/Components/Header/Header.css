@@ -1,0 +1,115 @@
+.header {
+  background-color: #2874f0;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 56px;
+}
+.header-logo {
+  margin-left: 68px;
+  padding-right: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-left: 120px;
+}
+.header-logo > img {
+  margin-bottom: -7px;
+  width: 75px;
+  object-fit: contain;
+}
+.header-logo1-explore {
+  margin-right: 2px;
+}
+.header-search {
+  height: 36px;
+  margin-left: -40px;
+  display: flex;
+  align-items: center;
+  background-color: white;
+  border-radius: 3px;
+}
+.header-search > input {
+  border: none;
+  outline: none;
+  width: 32vw;
+  padding: 10px 15px;
+  border-radius: 3px;
+}
+.header-search > .FaSistrix {
+  color: red;
+  padding: 5px;
+}
+.header-login > button {
+  margin-right: 0px;
+  border: none;
+  outline: none;
+  width: 121px;
+  color: #2874f0;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  padding: 7px;
+  background-color: white;
+}
+.header-more {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding: 7px;
+  color: white;
+}
+.header-more > span {
+  margin: 5px;
+  font-size: 16px;
+  letter-spacing: 0.1px;
+  font-weight: 500;
+}
+
+.header-cart {
+  display: flex;
+  align-items: center;
+  padding-right: 120px;
+  color: white;
+}
+.header-cart > p {
+  margin: 5px;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  letter-spacing: 0.1px;
+  font-weight: 500;
+}
+.header-seller > a {
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  letter-spacing: 0.1px;
+  font-weight: 500;
+  text-decoration: none;
+}
+.search-icon {
+  margin-right: 10px;
+  color: #2874f0;
+}
+.header-logo1-explore {
+  font-size: 12px;
+  color: white;
+  font-style: italic;
+}
+.header-logo1-plus {
+  font-size: 12px;
+  font-style: italic;
+  color: #ffe500;
+  font-weight: bold;
+}
+.header-logo1:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.counter {
+  align-items: center;
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+}
